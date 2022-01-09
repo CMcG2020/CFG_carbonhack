@@ -1,5 +1,5 @@
 # CFG_carbonhack
-Creating an app to hack carbon footprints
+Creating a WebApp to hack carbon footprints as part of the CFG x Beazley 2020 Hackathon
 
 Steps to run:
 
